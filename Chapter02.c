@@ -6,4 +6,4 @@ int main() {
     int area  = a*b/3;
     printf("%d",area);
     return 0;
-}
+} 
